@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="Design351" persistent="Design351.cywrk" platform="NOT_USED">
+<current_project name=".\SPI_FRAM_XIP_ACCESS_P6_SMIF01.cydsn\SPI_FRAM_XIP_ACCESS_P6_SMIF01.cyprj" />
+<wrkspc_folders />
+<files />
+<projects>
+<v>.\XipSpiFlash01.cydsn\XipSpiFlash01.cyprj</v>
+<v>.\XipSpiFlash02.cydsn\XipSpiFlash02.cyprj</v>
+<v>.\XipSpiFlashExample.cydsn\XipSpiFlashExample.cyprj</v>
+<v>.\SMIF_XIP_Example01.cydsn\SMIF_XIP_Example01.cyprj</v>
+<v>.\SMIF_XIP_Example.cydsn\SMIF_XIP_Example.cyprj</v>
+<v>.\ReadID01.cydsn\ReadID01.cyprj</v>
+<v>.\XipFram01.cydsn\XipFram01.cyprj</v>
+<v>.\XipFram02.cydsn\XipFram02.cyprj</v>
+<v>.\XipFram03.cydsn\XipFram03.cyprj</v>
+<v>.\XipFram04.cydsn\XipFram04.cyprj</v>
+<v>.\01_SPI_Flash_Read_Write.cydsn\01_SPI_Flash_Read_Write.cyprj</v>
+<v>.\02_SPI_Flash_XIP_Read.cydsn\02_SPI_Flash_XIP_Read.cyprj</v>
+<v>.\03_SPI_Flash_XIP_Execution.cydsn\03_SPI_Flash_XIP_Execution.cyprj</v>
+<v>.\04_Excelon_Read_Write.cydsn\04_Excelon_Read_Write.cyprj</v>
+<v>.\05_Excelon_XIP_Read_Write.cydsn\05_Excelon_XIP_Read_Write.cyprj</v>
+<v>.\05a_Excelon_Sieve.cydsn\05a_Excelon_Sieve.cyprj</v>
+<v>.\SPI_FRAM_XIP_ACCESS_P6_SMIF01.cydsn\SPI_FRAM_XIP_ACCESS_P6_SMIF01.cyprj</v>
+</projects>
+<workspace_id v="7a24bc8b-58f6-43c0-ab8b-d71655f51f7e" />
+<WriteAppVersionLastSavedWith v="4.2.0.641" />
+<WriteAppMarketingVersionLastSavedWith v="4.2" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
+<wrkspc_dependencies />
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>
